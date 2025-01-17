@@ -1,0 +1,25 @@
+ .banner {
+     width: 100%;
+     height: 600px;
+     background-position: center;
+     background-repeat: no-repeat;
+     position: relative;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 0 20px;
+     box-sizing: border-box;
+     overflow: hidden;
+     background-size: 100% auto;
+ }
+
+ .gradient {
+     position: absolute;
+ }
+
+ .cardBanner {
+     position: relative;
+     width: 100%;
+     /* Tamaño de la card, ajusta según sea necesario */
+     align-items: center;
+ }

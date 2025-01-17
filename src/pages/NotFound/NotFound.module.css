@@ -1,0 +1,40 @@
+.not-found {
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    
+  }
+  
+  .not-found-title {
+    font-size: 120px;
+    color: #ff6b6b;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .not-found-subtitle {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .not-found-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .not-found-button:hover {
+    background-color: #2c76b1;
+  }
+  

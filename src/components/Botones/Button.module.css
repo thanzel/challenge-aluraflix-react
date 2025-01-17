@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: transparent;
+    color: var(--blanco);
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 18.75px;
+}
+
+.icon {
+    margin-right: 18px;
+    /* Espacio entre el icono y el texto */
+}

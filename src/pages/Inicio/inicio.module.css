@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+}
+
+.categoriaTitulo {
+    padding: 8px 16px;
+    color: var(--blanco);
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37.5px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 10px 0;
+    margin-left: 18px;
+    width: 100%;
+    max-width: 432px;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration-skip-ink: none;
+    text-underline-position: from-font;
+}

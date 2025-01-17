@@ -1,0 +1,74 @@
+/* Contenedor principal (Full height, flex column) */
+.main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+    padding: 0 16px;
+    box-sizing: border-box;
+}
+
+/* Contenedor central con contenido */
+.container {
+    flex: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Estilo de Cabecera */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+
+/* Estilo del Pie */
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 16px 0;
+}
+
+/* Media Query para pantallas pequeñas (max-width 600px) */
+@media (max-width: 600px) {
+    /* Cabecera en una sola columna */
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Navbar en la cabecera se apila verticalmente */
+    nav {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    /* Pie con más padding */
+    footer {
+        padding: 32px 0;
+    }
+
+    /* Contenedor que se ajusta al tamaño */
+    .container {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+/* Media Query para pantallas medianas (min-width 600px y max-width 900px) */
+@media (min-width: 600px) and (max-width: 900px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* Media Query para pantallas grandes (min-width 900px) */
+@media (min-width: 900px) {
+    .main {
+        padding: 0 32px;  /* Más espacio lateral */
+    }
+
+    .container {
+        width: 80%;  /* Ancho más pequeño para mejorar la presentación */
+    }
+}

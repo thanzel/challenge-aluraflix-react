@@ -1,0 +1,53 @@
+.container {
+    width: 100%;
+    height: 150px;
+    border-top: 4px solid var(--Blue, #2271D1);
+    background: #000000E5;
+    box-shadow: 0px 5px 29px 0px #2271D1B2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: auto;
+}
+
+.img {
+    width: 168.45px;
+    height: 40px;
+    opacity: 1;
+    margin-bottom: 15px;
+}
+
+.texto {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.8), 0 0 25px rgba(0, 0, 0, 0.4);
+    animation: textoLlamativo 1.5s ease-in-out forwards;
+    transform: translateY(20px);
+    opacity: 0;
+}
+
+.texto span {
+    color: var(--Blue, #2271D1);
+    font-size: 12px;
+    
+}
+
+@keyframes textoLlamativo {
+    0% {
+        transform: translateY(30px);
+        opacity: 0;
+    }
+    60% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

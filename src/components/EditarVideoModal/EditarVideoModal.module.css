@@ -1,0 +1,15 @@
+/* Borde azul permanente */
+.textField .MuiOutlinedInput-notchedOutline {
+    border: 2px solid blue !important; 
+}
+
+/* Borde más oscuro al pasar el mouse */
+.textField:hover .MuiOutlinedInput-notchedOutline {
+    border-color: darkblue !important;
+}
+
+/* Borde azul al enfocar */
+.textField .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: blue !important;
+    border-width: 2px;
+}
