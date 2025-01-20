@@ -20,7 +20,7 @@ function Inicio() {
     useEffect(() => {
         const fetchVideos = async () => {
             try {
-                const response = await fetch("http://localhost:3001/videos");
+                const response = await fetch("http://localhost:5000/videos");
                 const data = await response.json();
                 setVideos(data);
             } catch (error) {
@@ -37,7 +37,7 @@ function Inicio() {
     //Borrar Video
     const handleBorrar = async (id) => {
         try {
-            const response = await fetch(`http://localhost:3001/videos/${id}`, {
+            const response = await fetch(`http://localhost:5000/videos/${id}`, {
                 method: 'DELETE',
             });
 
@@ -64,7 +64,7 @@ function Inicio() {
         const videoEditado = { titulo, categoria, imagen, link, descripcion };
 
         try {
-            const response = await fetch(`http://localhost:3001/videos/${id}`, {
+            const response = await fetch(`http://localhost:5000/videos/${id}`, {
                 method: 'PATCH',
                 headers: {
                     'Content-Type': 'application/json',

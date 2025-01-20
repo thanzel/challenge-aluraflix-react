@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Diferencia entrre FrontEnd y BackEnd",
+      "categoria": "Backend",
+      "imagen": "https://img.youtube.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/R9uaBxgCkyA?si=urvmLhWjGGBNsONE",
+      "descripcion": "En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web"
+    },
+    {
+      "id": "2",
+      "titulo": "chatgpt4 plus Explorando las Herramientas",
+      "categoria": "FrontEnd",
+      "imagen": "https://img.youtube.com/vi/SSe00ZjqITc/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/SSe00ZjqITc?si=pI6vYCQ0X365mCKY",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+    },
+    {
+      "id": "3",
+      "titulo": "Cuando usar let, var y const?",
+      "categoria": "FrontEnd",
+      "imagen": "https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/PztCEdIJITY?si=3-7uwSCvBzdJCTIc",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    },
+    {
+      "id": "4",
+      "titulo": "Spring Framework",
+      "categoria": "Backend",
+      "imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=us9ZkTzdEwX4G4He",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+    },
+    {
+      "id": "5",
+      "titulo": "Java",
+      "categoria": "Backend",
+      "imagen": "https://img.youtube.com/vi/zOetOoeOrOg/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/zOetOoeOrOg?si=YJ40XuwFr4A84FVd",
+      "descripcion": "¡Descubre el camino hacia el éxito como desarrollador Java! "
+    },
+    {
+      "id": "6",
+      "titulo": "Figma",
+      "categoria": "FrontEnd",
+      "imagen": "https://img.youtube.com/vi/Y_6R3XTA2go/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/Y_6R3XTA2go?si=rdQMwX6HtWWB2Kw-",
+      "descripcion": "¿Aún no sabes como utilizar Figma y quieres aprender desde cero? En este video, nuestra instructora Barbara Santos nos guiará por un paso a paso a través de todo lo que necesitas saber para comenzar a diseñar con Figma."
+    },
+    {
+      "id": "7",
+      "titulo": "Aprendiendo Figma",
+      "categoria": "FrontEnd",
+      "imagen": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/UuAX5azcvDQ?si=dMi64pVKzT9KlDoG",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? "
+    },
+    {
+      "id": "8",
+      "titulo": "Data Science",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://img.youtube.com/vi/7_UXo-aqAeM/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/7_UXo-aqAeM?si=evNnFfDVXJb812gS",
+      "descripcion": "Por qué estudiar Data Science"
+    },
+    {
+      "id": "9",
+      "titulo": "Accesibilidad",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://img.youtube.com/vi/ngMOsuZL-XE/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/ngMOsuZL-XE?si=wRrrzuBtqdiOfPrZ",
+      "descripcion": "En este Alura+, la instructora Barbara dos Santos y nuestra Scuba Mariana Costa, se juntan para hablar de un tema de extrema importancia para cualquier desarrollador: Accesibilidad Web."
+    },
+    {
+      "id": "9",
+      "titulo": "Marca Personal",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://img.youtube.com/vi/LAK-RduBJUs/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/LAK-RduBJUs?si=L9pdFHSlv2jzwVvP",
+      "descripcion": "lorem ipsum"
+    },
+    {
+      "id": "10",
+      "titulo": "Git y GitHyb para principiantes",
+      "categoria": "Backend",
+      "imagen": "https://img.youtube.com/vi/Yfm16Tlpcwk/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/Yfm16Tlpcwk?si=78QpECYIL2UXh6fL",
+      "descripcion": "Git y GitHub son herramientas de control de versiones para software más popular dentro del mercado y es utilizada por millones de desarrolladores en todo el mundo. "
+    },
+    {
+      "id": "1737149957505",
+      "titulo": "La importancia de la Visión de Negocio para las personas desarrolladoras",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://img.youtube.com/vi/PtPyM0ZgshA/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/PtPyM0ZgshA?si=eJziD3RTHbDDpt_I",
+      "descripcion": "En este video, nuestra instructora Ellen Pimentel comenta por qué una persona programadora debe desarrollar la Visión de Negocio y la importancia de esta habilidad para su carrera."
+    }
+  ]
+}

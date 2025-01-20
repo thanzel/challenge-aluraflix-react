@@ -9,7 +9,7 @@ function Player() {
     const [video, setVideo] = useState(null);
 
     useEffect(() => {
-        fetch(`http://localhost:3001/videos/${id}`)
+        fetch(`http://localhost:5000/videos/${id}`)
             .then(response => response.json())
             .then(data => setVideo(data))
             .catch(error => console.error("Error al obtener el video:", error));
