@@ -1,3 +1,33 @@
+
+<div align="center">
+  <h1> Desafío AluraFlix de Alura Latam</h1>
+
+![image](https://github.com/user-attachments/assets/eac6e706-4bf0-417c-96f9-21f9961bcfc2)
+
+  ![Static Badge](https://img.shields.io/badge/VERSION-1.0-yellow?style=flat)
+
+</div>
+
+# Alura Flix
+
+  App para registrar y reproducir videos. 
+      
+## Desarrollador
+
+[Yenny ](https://www.linkedin.com/in)
+* Software Developer - Backend Java Jr. - Spring Boot
+* FullStack Developer Jr.: Javascript - JQuery - Typescript - HTML - CSS - Bootstrap
+
+## Tecnologías usadas
+
+![Static Badge](https://img.shields.io/badge/React-e3e1e6?style=for-the-badge&logo=react&logoColor=black&labelColor=c6d1b3)
+![Static Badge](https://img.shields.io/badge/HTML5-DBD5D2?style=for-the-badge&logo=html5&logoColor=black&labelColor=AcB6B3)
+![Static Badge](https://img.shields.io/badge/CSS3-efebe9?style=for-the-badge&logo=css3&logoColor=black&labelColor=cfd8dc)
+![Static Badge](https://img.shields.io/badge/JavaScript-E4c9B6?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D7A49A)
+
+
+# REACT  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
